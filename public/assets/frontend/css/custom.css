@@ -1,0 +1,292 @@
+.syndicate span.number {
+	background: url('../images/syndicate-bullet.png');
+	width: 50px;
+	height: 50px;
+	display: block;
+	color: #fff;
+	text-align: center;
+	padding-top: 20px;
+	margin-right: 10px;
+	float: left;
+	padding-left: 12px;
+	font-size: 20px;
+}
+.syndicate li {
+	display: flex;
+	margin-bottom: 10px;
+}
+.syndicate li a{
+    color: #125875;
+}
+.nav .nav-item button.active {
+  background-color: transparent;
+  color: var(--bs-danger) !important;
+}
+.nav .nav-item button.active::after {
+  content: "";
+  border-right: 4px solid var(--bs-danger);
+  height: 100%;
+  position: absolute;
+  right: -1px;
+  top: 0;
+  border-radius: 5px 0 0 5px;
+}
+.supplier-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.supplier-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+.supplier-table th,
+.supplier-table td {
+    padding: 12px 15px;
+}
+.supplier-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.supplier-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.supplier-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+.supplier-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+.our-customers .logo-items , .our-supplier .logo-items{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 170px;
+}
+.our-customers, .our-supplier {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+.our-customers .logo-items img {
+	object-fit: cover;
+	max-width: 100%;
+}
+.our-supplier .logo-items, .our-customers .logo-items {
+	background: #ffffff;
+	box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.06);
+	border-radius: 50px;
+	max-width: 255px;
+	max-height: 230px;
+	min-width: 255px;
+	min-height: 230px;
+	border: 1px solid transparent;
+	transition: all 0.3s ease;
+    margin-bottom: 40px;
+}
+.member-detail .text-part {
+	padding: 40px 10px;
+}
+.member-detail.md .text-part {
+	padding: 40px;
+}
+.member-detail .img-part img {
+	min-width: 400px;
+}
+.member-detail .img-part img {
+	object-fit: cover;
+	max-width: 100%;
+    width: auto;
+}
+.member-detail .name {
+	font-weight: 700;
+	font-size: 28px;
+	line-height: 38px;
+	margin-bottom: 2px;
+	color: #01010f;
+}
+.member-detail .content {
+	max-width: 920px;
+	background-color: #f9f9fc;
+	display: flex;
+	margin: 0 auto;
+}
+.member-detail .director {
+	max-width: 920px;
+	background-color: #f9f9fc;
+}
+
+.member-detail .designation {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	color: #48495f;
+	opacity: 0.8;
+	margin-bottom: 20px;
+}
+.member-detail hr {
+	margin-bottom: 20px;
+}
+.member-detail .social-links-wrapper a{
+    color: #fff;
+	padding: 10px 15px;
+	border-radius: 50%;
+}
+.member-detail .social-links-wrapper a.facebook {
+	background: #316FF6;
+}
+.member-detail .social-links-wrapper a.youtube {
+	background: #FF0000;
+}
+.member-detail .social-links-wrapper a.instagram {
+	background: #cd486b;
+}
+.bixol-footer {
+	padding: 20px 0 0px 0;
+}
+.member-detail.mobile{
+    display: none;
+}
+.product-list .items-wrapper {
+    grid-template-columns: repeat(4, 1fr);
+    display: grid;
+    gap: 30px;
+}
+.product-card {
+    background: #f9f9fc;
+    text-decoration: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+.product-card img {
+    width: 100%;
+    height: 200px;
+    max-height: 300px;
+    min-height: 200px;
+}
+.product-card .title-part {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 20px;
+    align-items: center;
+}
+.product-card h3, .product-card .h3 {
+    font-weight: 700;
+    font-size: 20px;
+    color: #005aa9;
+    line-height: 25px;
+    text-decoration: none;
+    margin-bottom: 0;
+}
+.product-card .title-part span {
+    margin-left: 10px;
+}
+.product-list .company_title{
+    text-align: center;
+    padding: 50px 0;
+}
+.product-list .company_title h5{
+    display: inline-block;
+}
+@media (max-width: 1199.98px) {
+  .member-detail .content{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .member-detail .img-part img{
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+  .our-supplier, .our-customers {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+  .our-supplier .logo-items, .our-customers .logo-items {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: 150px;
+    min-height: 150px;
+    max-height: 150px;
+    border-radius: 8px;
+  }
+  .our-supplier .logo-items img {
+	max-width: 90%;
+	height: 150px !important;
+
+  }
+  .our-customers .logo-items img {
+	max-width: 100%;
+	height: 100px !important;
+  }
+  .product-list .items-wrapper {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .product-card img {
+    min-height: auto;
+    height: auto;
+  }
+  .product-card .title-part {
+	padding: 15px;
+    }
+}
+.bixol-footer .bixol-footer-widget {
+	margin-bottom: 20px;
+}
+.bixol-footer .bixol-footer-widget h4 {
+	margin-bottom: 10px;
+}
+@media (max-width: 1008px) {
+    .product-list .items-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 768px) {
+    .member-detail.mobile{
+        display: block;
+    }
+    .member-detail.desktop{
+        display: none;
+    }
+    .our-supplier, .our-customers {
+	    grid-template-columns: 1fr 1fr;
+    	gap: 15px;
+    }
+    .our-supplier .logo-items, .our-customers .logo-items {
+        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+        height: 150px;
+        min-height: 150px;
+        max-height: 150px;
+        border-radius: 8px;
+    }
+  .our-supplier .logo-items img {
+    	max-width: 90%;
+    	height: 100px !important;
+  }
+  .our-customers .logo-items img {
+    	max-width: 100%;
+    	height: 100px !important;
+  }
+  .product-list .items-wrapper {
+        grid-template-columns: 1fr;
+    }
+}
+@media (max-width: 450px) {
+    .our-customers .logo-items img {
+    	max-width: 100%;
+    	height: 70px !important;
+  }
+}
+.bixol-header-top-content, ::after, ::before {
+  box-sizing: inherit !important;
+}
