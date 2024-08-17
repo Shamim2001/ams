@@ -13,4 +13,20 @@ class DashboardController extends Controller
         $title = "Dashboard";
         return view('backend.pages.dashboard.dashboard',compact('title'));
     }
+
+    function index() {
+        return view('backend.pages.investigation.index');
+    }
+    function create() {
+
+    }
+    function edit() {
+
+    }
+    function update() {
+
+    }
+    function destroy() {
+
+    }
 }

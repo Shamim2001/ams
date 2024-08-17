@@ -5571,3 +5571,5679 @@
 #71 C:\\laragon\\www\\ams\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
 #72 {main}
 "} 
+[2024-08-12 14:19:33] local.INFO: array (
+  'anowaramedicalservices' => 'Patient Id',
+  1 => 'Action',
+)  
+[2024-08-12 14:19:33] local.INFO: array (
+  'anowaramedicalservices' => 240000045272,
+  1 => NULL,
+)  
+[2024-08-12 14:19:33] local.INFO: array (
+  'anowaramedicalservices' => 240000043931,
+  1 => NULL,
+)  
+[2024-08-12 14:19:33] local.INFO: array (
+  'anowaramedicalservices' => 240000044297,
+  1 => NULL,
+)  
+[2024-08-12 14:19:33] local.INFO: array (
+  'anowaramedicalservices' => 240000044309,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044672,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043980,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000042866,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045184,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045178,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000042931,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044216,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044216,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044216,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044281,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044937,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044937,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044937,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044937,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044840,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000036072,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043338,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044620,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000035574,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000035842,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038654,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044654,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044853,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044853,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041975,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044410,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045136,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045186,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045186,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045381,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039878,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000040257,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044153,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044828,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000040912,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000040912,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000040937,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000042940,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000042011,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041376,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041445,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000041496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044026,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044987,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044347,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044364,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044416,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043028,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044523,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043134,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043251,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043253,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043613,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044622,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043347,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043350,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043380,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043401,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045176,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043419,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043487,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043521,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043560,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043610,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043639,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043649,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043655,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043659,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043660,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043667,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043670,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043671,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043672,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043673,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043675,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043676,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043678,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043680,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043681,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043684,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043685,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043685,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043685,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043687,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043690,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043691,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043692,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043693,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043694,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043695,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043696,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043697,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043698,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043699,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043701,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043702,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043703,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043704,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043705,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043710,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043711,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043713,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043714,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043716,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043717,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043718,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043719,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043720,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043721,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043724,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044738,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044738,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043740,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043741,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043742,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043743,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043747,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043748,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043749,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043750,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043751,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043752,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043754,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043755,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043756,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043762,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043764,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043765,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043766,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043769,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043774,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043775,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043777,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043778,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043780,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043781,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043782,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043783,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043785,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043786,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043787,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043788,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043789,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043790,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043792,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043793,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043798,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043800,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043802,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043803,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043806,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043807,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043808,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043810,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043811,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043812,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043813,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043814,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043818,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043819,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043821,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043822,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043823,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043825,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043827,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043828,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043831,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043832,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043857,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043857,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043857,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043833,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043860,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043917,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043922,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000043961,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044006,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044009,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044009,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044015,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044078,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044113,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044114,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044118,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044147,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044169,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044171,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044176,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044178,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044179,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044180,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044181,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044182,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044186,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044189,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044195,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044198,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044199,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044200,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044201,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044203,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044204,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044206,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044205,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044207,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044208,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044210,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044220,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044221,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044222,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044222,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044225,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044227,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044229,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044232,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044234,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044236,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044237,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044238,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044239,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044240,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044241,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044242,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044243,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044244,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044248,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044249,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044250,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044251,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044253,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044254,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044254,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044255,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044257,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044259,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044259,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044260,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044261,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044263,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044265,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044267,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044269,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044271,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044272,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044280,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044282,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044284,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044285,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044287,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044288,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044290,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044291,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044292,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044294,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044299,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044301,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044303,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044305,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044306,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044308,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044310,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044311,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044312,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044313,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044314,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044315,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044316,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044317,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044318,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044319,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044320,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044321,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044323,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044324,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044325,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044327,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044328,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044329,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044332,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044333,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044334,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044336,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044336,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044337,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044335,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044339,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044340,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044341,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044342,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044343,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044343,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044345,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044349,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044368,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044369,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044370,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044371,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044385,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044393,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044396,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044397,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044402,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044407,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044417,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044424,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044430,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044431,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044441,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044442,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044450,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044458,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044459,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044971,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044971,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044971,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045087,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044460,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044464,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044464,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044464,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044468,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044491,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044491,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044496,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044504,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044506,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044508,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044509,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044510,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044512,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044513,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044515,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044515,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044514,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044519,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044525,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044526,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044527,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044528,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044538,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044539,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044539,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044543,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044545,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044546,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044547,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044548,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044549,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044550,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044551,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044552,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044556,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044557,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044558,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044559,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044561,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044563,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044565,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044567,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044572,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044573,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044574,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044577,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044578,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044579,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044582,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044585,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044586,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044589,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044590,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044591,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044605,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044631,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044638,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044638,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044638,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044639,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044639,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044640,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044651,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044657,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044675,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044688,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044696,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044697,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044702,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044703,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044704,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044705,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044707,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044721,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044734,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044735,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044740,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044743,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044744,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044745,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044746,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044747,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044747,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044751,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044765,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044761,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044763,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044763,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044764,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044767,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044772,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044778,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044780,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044785,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044789,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044791,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044802,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044807,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044809,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044810,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044815,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044818,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044821,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044821,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044824,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044825,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044826,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044827,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044832,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044832,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044832,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044835,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044836,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044837,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044839,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044841,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044844,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044845,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044846,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044847,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044849,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044850,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044852,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044854,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044854,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044854,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044855,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044856,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044857,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044858,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044859,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044859,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044862,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044863,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044866,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044867,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044868,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044873,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044874,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044875,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044885,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044888,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044888,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044891,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044898,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044903,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044904,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044905,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044907,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044906,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044909,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044914,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044917,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044919,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044924,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044927,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044929,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044931,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044950,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044940,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044942,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044952,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044957,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044959,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044960,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044961,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044962,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044966,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044967,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044967,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044967,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044969,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044969,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044982,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044982,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044985,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044986,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044986,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044988,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044991,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044992,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044995,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044993,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044993,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044996,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044997,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000044998,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045007,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045027,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045031,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045031,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045031,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045034,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045036,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045054,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045056,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045058,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045059,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045072,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045067,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045089,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045086,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045091,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045091,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045094,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045107,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045111,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045112,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045118,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045121,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045131,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045131,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045132,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045133,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045135,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045137,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045142,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045143,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045144,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045147,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045147,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045148,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045152,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045152,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045153,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045155,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045156,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045157,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045157,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045157,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045159,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045161,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045161,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045161,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045161,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045161,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045162,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045168,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045165,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045166,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045167,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045171,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045174,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045175,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045175,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045175,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045177,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045179,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045180,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045181,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045182,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045190,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045195,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045197,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045199,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045201,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045201,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045205,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045206,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045216,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045217,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045219,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045223,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045223,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045238,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045242,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045265,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045276,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045276,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045280,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045280,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045280,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045280,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045280,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045280,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045280,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045283,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045293,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045294,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045315,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045316,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045319,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045321,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045323,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045322,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045333,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045335,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045336,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045336,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045359,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045376,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045391,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045400,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045401,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045412,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045415,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045427,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045433,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045435,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000045441,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => NULL,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000001,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000002,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000003,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000004,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000005,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000006,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000007,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000008,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000009,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000010,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000011,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000012,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000013,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000014,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000015,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000016,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000017,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000018,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000019,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000020,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 2000021,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038752,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039457,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038869,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 230000000050,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039270,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039953,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000030688,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039776,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000036179,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039410,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000025782,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000035544,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000035671,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000030612,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000033511,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038529,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038529,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038529,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038157,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037620,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039755,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039665,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000036168,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037391,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000036215,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039071,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039938,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000040116,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000036515,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039440,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038196,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039724,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038165,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039407,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037392,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038035,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000040007,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038325,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039984,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039395,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037177,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038980,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039775,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039686,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039686,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039686,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039686,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037217,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038917,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038820,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038820,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037553,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037553,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037891,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037935,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038350,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038483,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038490,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038525,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038536,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038537,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038556,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038558,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038560,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038566,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038569,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038573,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038585,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038590,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038595,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038597,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038600,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038601,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038616,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000037905,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038641,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038643,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038652,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038676,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038682,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038684,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038696,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038698,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038702,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000040015,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038722,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038724,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038728,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038737,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038743,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038744,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038745,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038753,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038754,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038756,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038756,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038764,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038765,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038767,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038776,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038842,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038853,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038856,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038862,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038863,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038895,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038914,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038963,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000038967,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039018,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039021,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039046,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039046,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039046,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039132,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039134,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039134,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039134,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039153,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039167,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039170,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039174,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039183,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039185,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039214,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039221,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039222,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039225,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039243,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039260,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039262,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039267,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039272,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039274,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039274,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039275,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039278,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039281,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039286,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039288,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039288,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039290,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039291,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039291,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039293,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039297,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039305,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039306,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039317,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039319,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039327,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039330,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039334,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039336,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039351,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039354,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039360,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039361,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039361,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039364,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039366,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039375,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039396,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039411,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039412,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039415,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039419,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039426,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039427,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039428,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039432,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039439,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039439,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039438,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039447,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039449,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039451,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039453,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039456,
+  1 => NULL,
+)  
+[2024-08-12 14:19:34] local.INFO: array (
+  'anowaramedicalservices' => 240000039465,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039466,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039467,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039469,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039471,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039470,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039474,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039475,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039478,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039481,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039483,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039482,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039484,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039485,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039486,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039487,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039488,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039491,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039492,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039493,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039498,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039497,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039500,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039502,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039505,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039506,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039507,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039508,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039509,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039511,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039513,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039514,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039515,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039516,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039518,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039521,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039522,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039524,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039525,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039526,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039527,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039528,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039533,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039536,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039537,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039540,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039542,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039543,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039545,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039546,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039547,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039549,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039552,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039553,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039559,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039560,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039562,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039563,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039564,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039571,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039575,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039578,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039581,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039594,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039607,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039627,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039628,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039630,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039632,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039634,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039635,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039636,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039639,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039641,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039643,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039666,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039666,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039667,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039696,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039698,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039759,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039769,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039781,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039807,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039819,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039845,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039879,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039899,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039947,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039950,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040117,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039957,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039969,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039970,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039973,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039974,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039974,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039977,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039978,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039980,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039987,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039987,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039986,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039986,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039991,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039994,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039995,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039996,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039996,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000039997,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040004,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040004,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040009,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040016,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040018,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040020,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040021,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040022,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040023,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040024,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040025,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040026,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040027,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040029,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040032,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040034,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040035,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040036,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040038,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040041,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040042,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040042,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040047,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040049,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040050,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040052,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040055,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040066,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040068,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040069,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040070,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040071,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040073,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040076,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040077,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040082,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040087,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040089,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040091,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040095,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040112,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040112,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040114,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040115,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040118,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040130,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040132,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040154,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040155,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040159,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040172,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040186,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040189,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040212,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040222,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040222,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040224,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040226,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040230,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040255,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040262,
+  1 => NULL,
+)  
+[2024-08-12 14:19:35] local.INFO: array (
+  'anowaramedicalservices' => 240000040276,
+  1 => NULL,
+)  
+[2024-08-17 03:48:23] local.ERROR: Cannot declare class App\Models\Product, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Models\\Product, because the name is already in use at C:\\laragon\\www\\ams\\app\\Models\\Product.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-17 04:02:29] local.ERROR: Route [admin.investigation.index] not defined. {"view":{"view":"C:\\laragon\\www\\ams\\resources\\views\\backend\\includes\\sidebar.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-1017701324 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#1438</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1017701324\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","title":"<pre class=sf-dump id=sf-dump-937328696 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"9 characters\">Dashboard</span>\"
+</pre><script>Sfdump(\"sf-dump-937328696\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"userId":1,"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): Route [admin.investigation.index] not defined. at C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\UrlGenerator.php:477)
+[stacktrace]
+#0 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php(811): Illuminate\\Routing\\UrlGenerator->route('admin.investiga...', Array, true)
+#1 C:\\laragon\\www\\ams\\resources\\views\\backend\\includes\\sidebar.blade.php(78): route('admin.investiga...')
+#2 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(123): require('C:\\\\laragon\\\\www\\\\...')
+#3 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laragon\\\\www\\\\...', Array)
+#5 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(72): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laragon\\\\www\\\\...', Array)
+#6 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(207): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laragon\\\\www\\\\...', Array)
+#7 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(190): Illuminate\\View\\View->getContents()
+#8 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(159): Illuminate\\View\\View->renderContents()
+#9 C:\\laragon\\www\\ams\\resources\\views\\backend\\layout\\app.blade.php(38): Illuminate\\View\\View->render()
+#10 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(123): require('C:\\\\laragon\\\\www\\\\...')
+#11 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#12 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laragon\\\\www\\\\...', Array)
+#13 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(72): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laragon\\\\www\\\\...', Array)
+#14 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(207): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laragon\\\\www\\\\...', Array)
+#15 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(190): Illuminate\\View\\View->getContents()
+#16 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(159): Illuminate\\View\\View->renderContents()
+#17 C:\\laragon\\www\\ams\\resources\\views\\backend\\pages\\dashboard\\dashboard.blade.php(171): Illuminate\\View\\View->render()
+#18 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(123): require('C:\\\\laragon\\\\www\\\\...')
+#19 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#20 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laragon\\\\www\\\\...', Array)
+#21 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(72): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laragon\\\\www\\\\...', Array)
+#22 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(207): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laragon\\\\www\\\\...', Array)
+#23 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(190): Illuminate\\View\\View->getContents()
+#24 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(159): Illuminate\\View\\View->renderContents()
+#25 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#26 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#27 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(918): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#28 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(885): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#29 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(805): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#30 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(144): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#39 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#41 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(805): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#48 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(784): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#49 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(748): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#50 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#51 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#52 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(144): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#55 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#57 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#58 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#59 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#60 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#61 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(99): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#62 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#63 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#64 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#65 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#66 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#67 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#68 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#69 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#70 C:\\laragon\\www\\ams\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#71 {main}
+
+[previous exception] [object] (Symfony\\Component\\Routing\\Exception\\RouteNotFoundException(code: 0): Route [admin.investigation.index] not defined. at C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\UrlGenerator.php:477)
+[stacktrace]
+#0 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php(811): Illuminate\\Routing\\UrlGenerator->route('admin.investiga...', Array, true)
+#1 C:\\laragon\\www\\ams\\storage\\framework\\views\\e4babdfe36e571584c902565cf02c3f8.php(78): route('admin.investiga...')
+#2 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(123): require('C:\\\\laragon\\\\www\\\\...')
+#3 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laragon\\\\www\\\\...', Array)
+#5 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(72): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laragon\\\\www\\\\...', Array)
+#6 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(207): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laragon\\\\www\\\\...', Array)
+#7 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(190): Illuminate\\View\\View->getContents()
+#8 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(159): Illuminate\\View\\View->renderContents()
+#9 C:\\laragon\\www\\ams\\storage\\framework\\views\\cf5c5d488899a405301fd1410e890077.php(38): Illuminate\\View\\View->render()
+#10 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(123): require('C:\\\\laragon\\\\www\\\\...')
+#11 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#12 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laragon\\\\www\\\\...', Array)
+#13 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(72): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laragon\\\\www\\\\...', Array)
+#14 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(207): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laragon\\\\www\\\\...', Array)
+#15 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(190): Illuminate\\View\\View->getContents()
+#16 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(159): Illuminate\\View\\View->renderContents()
+#17 C:\\laragon\\www\\ams\\storage\\framework\\views\\3a63984c06afd57c076dd193ec651e5f.php(172): Illuminate\\View\\View->render()
+#18 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(123): require('C:\\\\laragon\\\\www\\\\...')
+#19 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#20 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laragon\\\\www\\\\...', Array)
+#21 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(72): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laragon\\\\www\\\\...', Array)
+#22 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(207): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laragon\\\\www\\\\...', Array)
+#23 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(190): Illuminate\\View\\View->getContents()
+#24 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(159): Illuminate\\View\\View->renderContents()
+#25 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#26 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#27 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(918): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#28 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(885): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#29 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(805): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#30 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(144): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#39 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#41 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(805): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#48 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(784): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#49 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(748): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#50 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#51 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#52 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(144): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#55 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#57 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#58 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#59 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#60 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#61 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(99): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#62 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#63 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#64 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#65 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#66 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#67 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#68 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#69 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#70 C:\\laragon\\www\\ams\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#71 {main}
+"} 
+[2024-08-17 04:03:37] local.ERROR: Undefined variable $title {"view":{"view":"C:\\laragon\\www\\ams\\resources\\views\\backend\\pages\\investigation\\create.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-1539715363 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#1482</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1539715363\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"userId":1,"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): Undefined variable $title at C:\\laragon\\www\\ams\\resources\\views\\backend\\pages\\investigation\\create.blade.php:19)
+[stacktrace]
+#0 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(123): require('C:\\\\laragon\\\\www\\\\...')
+#1 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#2 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laragon\\\\www\\\\...', Array)
+#3 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(72): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laragon\\\\www\\\\...', Array)
+#4 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(207): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laragon\\\\www\\\\...', Array)
+#5 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(190): Illuminate\\View\\View->getContents()
+#6 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(159): Illuminate\\View\\View->renderContents()
+#7 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#8 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#9 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(918): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#10 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(885): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#11 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(805): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#12 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(144): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#23 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(805): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#30 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(784): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#31 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(748): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#32 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#33 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#34 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(144): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(99): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#51 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#52 C:\\laragon\\www\\ams\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#53 {main}
+
+[previous exception] [object] (ErrorException(code: 0): Undefined variable $title at C:\\laragon\\www\\ams\\storage\\framework\\views\\de81ba0893a509102c22621372b974f5.php:18)
+[stacktrace]
+#0 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(255): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Undefined varia...', 'C:\\\\laragon\\\\www\\\\...', 18)
+#1 C:\\laragon\\www\\ams\\storage\\framework\\views\\de81ba0893a509102c22621372b974f5.php(18): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Undefined varia...', 'C:\\\\laragon\\\\www\\\\...', 18)
+#2 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(123): require('C:\\\\laragon\\\\www\\\\...')
+#3 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laragon\\\\www\\\\...', Array)
+#5 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(72): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laragon\\\\www\\\\...', Array)
+#6 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(207): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laragon\\\\www\\\\...', Array)
+#7 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(190): Illuminate\\View\\View->getContents()
+#8 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(159): Illuminate\\View\\View->renderContents()
+#9 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#10 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#11 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(918): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#12 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(885): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#13 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(805): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#14 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(144): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#25 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(805): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#32 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(784): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#33 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(748): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#34 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#35 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#36 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(144): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#37 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#39 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(99): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(183): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#51 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#52 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#53 C:\\laragon\\www\\ams\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#54 C:\\laragon\\www\\ams\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#55 {main}
+"} 
+[2024-08-17 11:31:22] local.ERROR: Cannot declare class App\Models\Product, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Models\\Product, because the name is already in use at C:\\laragon\\www\\ams\\app\\Models\\Product.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-17 11:42:27] local.ERROR: Cannot declare class App\Models\Product, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Models\\Product, because the name is already in use at C:\\laragon\\www\\ams\\app\\Models\\Product.php:9)
+[stacktrace]
+#0 {main}
+"} 

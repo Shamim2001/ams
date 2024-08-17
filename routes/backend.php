@@ -30,6 +30,7 @@ Route::group(['prefix'=>'admin','as'=>'admin.','middleware'=>'auth'],function ()
     Route::resource('/supplier',SupplierController::class);
     Route::resource('/link-resource',LinkResourceController::class);
     Route::resource('/country',CountryController::class);
+    Route::resource('investigation',DashboardController::class);
     Route::resource('/patient',PatientController::class);
     Route::post('/import',[PatientController::class,'import'])->name('patient.import');
 

@@ -75,6 +75,12 @@
             </a>
         </li>
         <li>
+            <a href="{{ route('admin.investigation.index') }}" class="waves-effect">
+                <i class="mdi mdi-alpha-p-circle"></i>
+                <span key="t-layouts">Investigation From</span>
+            </a>
+        </li>
+        <li>
             <a href="{{ route('admin.patient.index') }}" class="waves-effect">
                 <i class="mdi mdi-alpha-p-circle"></i>
                 <span key="t-layouts">Patient</span>
