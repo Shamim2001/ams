@@ -17,6 +17,7 @@ use App\Http\Controllers\ProductController;
 use App\Http\Controllers\Backend\CompanyController;
 use App\Http\Controllers\Backend\PatientController;
 use App\Http\Controllers\Backend\PersonController;
+use App\Http\Controllers\Backend\TypeController;
 use Illuminate\Support\Facades\Route;
 
 Route::group(['prefix'=>'admin','as'=>'admin.','middleware'=>'auth'],function (){
@@ -31,6 +32,7 @@ Route::group(['prefix'=>'admin','as'=>'admin.','middleware'=>'auth'],function ()
     Route::resource('/supplier',SupplierController::class);
     Route::resource('/link-resource',LinkResourceController::class);
     Route::resource('/country',CountryController::class);
+    Route::resource('type',TypeController::class);
     Route::resource('person',PersonController::class);
     Route::resource('investigation',DashboardController::class);
     Route::resource('/patient',PatientController::class);
