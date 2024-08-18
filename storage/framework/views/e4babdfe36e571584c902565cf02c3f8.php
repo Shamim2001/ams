@@ -75,6 +75,12 @@
             </a>
         </li>
         <li>
+            <a href="<?php echo e(route('admin.person.index')); ?>" class="waves-effect">
+                <i class="mdi mdi-alpha-p-circle"></i>
+                <span key="t-layouts">Person</span>
+            </a>
+        </li>
+        <li>
             <a href="<?php echo e(route('admin.investigation.index')); ?>" class="waves-effect">
                 <i class="mdi mdi-alpha-p-circle"></i>
                 <span key="t-layouts">Investigation From</span>
