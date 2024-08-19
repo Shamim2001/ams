@@ -81,6 +81,12 @@
             </a>
         </li>
         <li>
+            <a href="<?php echo e(route('admin.question.index')); ?>" class="waves-effect">
+                <i class="mdi mdi-alpha-p-circle"></i>
+                <span key="t-layouts">Question</span>
+            </a>
+        </li>
+        <li>
             <a href="<?php echo e(route('admin.person.index')); ?>" class="waves-effect">
                 <i class="mdi mdi-alpha-p-circle"></i>
                 <span key="t-layouts">Person</span>
